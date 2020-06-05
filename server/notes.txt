@@ -1,0 +1,18 @@
+npm init -y
+
+npm install express
+npm install @types/express -D
+npm install typescript -D 
+npm install ts-node -D
+npm install cors
+npm install @types/cors -D
+
+npx tsc --init //typescript config file
+
+npm install ts-node-dev -D
+
+npx ts-node src/server.ts
+
+"scripts": {
+    "dev": "ts-node-dev src/server.ts"
+},
