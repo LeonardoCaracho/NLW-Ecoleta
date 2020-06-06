@@ -103,7 +103,7 @@ After merging your receipt request to done, you can delete a branch from yours.
 
 ## :page_facing_up: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/StefanoSaffran/gympoint/blob/master/LICENSE) for more information
+This project is under the MIT license. 
 
 ## :mailbox_with_mail: Get in touch!
 
