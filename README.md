@@ -72,10 +72,10 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/vinniciusgomes/ecoleta
+$ git clone https://github.com/leonardocaracho/nlw-ecoleta
 
 # Go into the repository
-$ cd ecoleta/backend
+$ cd nlw-ecoleta/backend
 
 # Install dependencies
 $ yarn install
