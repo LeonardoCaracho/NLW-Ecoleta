@@ -101,12 +101,25 @@ running on port 3333
 
 After merging your receipt request to done, you can delete a branch from yours.
 
-## :memo: License
+## :page_facing_up: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/vinniciusgomes/ecoleta/blob/master/LICENSE) for details.
+This project is under the MIT license. See the [LICENSE](https://github.com/StefanoSaffran/gympoint/blob/master/LICENSE) for more information
 
+## :mailbox_with_mail: Get in touch!
 
-Made with ♥ by Leonardo Caracho :wave: [Get in touch!](https://www.linkedin.com/in/leonardo-caracho-559513157/)
+<a href="" target="_blank" >
+  <img alt="Website - Leonardo Caracho" src="https://img.shields.io/badge/Website--%23F8952D?style=social">
+</a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/leonardo-caracho-559513157/" target="_blank" >
+  <img alt="Linkedin - Leonardo Caracho" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
+</a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:leeo.apc@gmail.com" target="_blank" >
+  <img alt="Email - Leonardo Caracho" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
+</a> 
+
+---
+
+Made with :coffee: and ❤️ by Leonardo Caracho.
 
 [nodejs]: https://nodejs.org/
 [typescript]: https://www.typescriptlang.org/
